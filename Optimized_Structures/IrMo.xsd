@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="latin1"?>
+<!DOCTYPE XSD []>
+<XSD Version="4.0">
+	<AtomisticTreeRoot ID="1" NumProperties="0" NumChildren="1" UserID="1">
+		<SymmetrySystem ID="2" Mapping="3" Children="4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42" Normalized="1" UserID="1" XYZ="0,0,0" OverspecificationTolerance="0.05" HasSymmetryHistory="1">
+			<MappingSet ID="43" SymmetryDefinition="42" ActiveSystem="2" NumFamilies="1" OwnsTotalConstraintMapping="1" TotalConstraintMapping="3">
+				<MappingFamily ID="44" NumImageMappings="0">
+					<IdentityMapping ID="45" Element="1,0,0,0,0,1,0,0,0,0,1,0" Constraint="1,0,0,0,0,1,0,0,0,0,1,0" MappedObjects="4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41" DefectObjects="42,46" NumImages="38" NumDefects="2">
+						<Atom3d ID="4" Mapping="45" Parent="2" UserID="2" DisplayStyle="CPK" XYZ="0.519153424076595,0.709409790038212,0.607518364874633" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="5" Mapping="45" Parent="2" UserID="3" DisplayStyle="CPK" XYZ="0.698110942465098,0.37384728879225,0.517268688618195" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="6" Mapping="45" Parent="2" UserID="4" DisplayStyle="CPK" XYZ="0.41655072352895,0.611628349953047,0.385274366472018" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="7" Mapping="45" Parent="2" UserID="5" DisplayStyle="CPK" XYZ="0.372054778963831,0.301868577490982,0.496184522209994" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="8" Mapping="45" Parent="2" UserID="6" DisplayStyle="CPK" XYZ="0.602300040194191,0.380334689675188,0.401800595727192" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="9" Mapping="45" Parent="2" UserID="7" DisplayStyle="CPK" XYZ="0.580849161661316,0.28230573342616,0.516772656727063" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="10" Mapping="45" Parent="2" UserID="8" DisplayStyle="CPK" XYZ="0.392117408692933,0.404087638705542,0.39040742867985" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="11" Mapping="45" Parent="2" UserID="9" DisplayStyle="CPK" XYZ="0.505357561433422,0.388777134304883,0.291444310456532" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="12" Mapping="45" Parent="2" UserID="10" DisplayStyle="CPK" XYZ="0.294417463986813,0.519128287476846,0.382046646588096" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="13" Mapping="45" Parent="2" UserID="11" DisplayStyle="CPK" XYZ="0.288742441731561,0.530467704407846,0.593045042978293" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="14" Mapping="45" Parent="2" UserID="12" DisplayStyle="CPK" XYZ="0.527241485273402,0.592271741811631,0.282537134652477" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="15" Mapping="45" Parent="2" UserID="13" DisplayStyle="CPK" XYZ="0.469354499903329,0.300889585789257,0.619620237929343" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="16" Mapping="45" Parent="2" UserID="14" DisplayStyle="CPK" XYZ="0.589776934384583,0.495606634176015,0.717396325184543" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="17" Mapping="45" Parent="2" UserID="15" DisplayStyle="CPK" XYZ="0.599771223703517,0.491889229935685,0.509012393705651" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="18" Mapping="45" Parent="2" UserID="16" DisplayStyle="CPK" XYZ="0.625043364772294,0.589292162231644,0.39493445898521" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="19" Mapping="45" Parent="2" UserID="17" DisplayStyle="CPK" XYZ="0.371497838492239,0.406889609616057,0.60152743713634" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="20" Mapping="45" Parent="2" UserID="18" DisplayStyle="CPK" XYZ="0.490359583457312,0.50756730542348,0.606372808121005" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="21" Mapping="45" Parent="2" UserID="19" DisplayStyle="CPK" XYZ="0.412839227293828,0.719633250553814,0.488509958331161" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="22" Mapping="45" Parent="2" UserID="20" DisplayStyle="CPK" XYZ="0.630351117709072,0.697294386270949,0.503673904909357" CPKScale="80" Components="Ir"/>
+						<Atom3d ID="23" Mapping="45" Parent="2" UserID="21" DisplayStyle="CPK" XYZ="0.402375227819334,0.625516987297127,0.598256470430266" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="24" Mapping="45" Parent="2" UserID="22" DisplayStyle="CPK" XYZ="0.305297592236119,0.618745686966987,0.482106131607093" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="25" Mapping="45" Parent="2" UserID="23" DisplayStyle="CPK" XYZ="0.514339134056357,0.616300273021125,0.499547588968605" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="26" Mapping="45" Parent="2" UserID="24" DisplayStyle="CPK" XYZ="0.486055332244396,0.384283943120995,0.507045863002826" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="27" Mapping="45" Parent="2" UserID="25" DisplayStyle="CPK" XYZ="0.532502778359428,0.697959984244443,0.391038507592704" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="28" Mapping="45" Parent="2" UserID="26" DisplayStyle="CPK" XYZ="0.482448608549557,0.29294420335313,0.403744040610366" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="29" Mapping="45" Parent="2" UserID="27" DisplayStyle="CPK" XYZ="0.386959759385729,0.511811026510777,0.713378047998022" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="30" Mapping="45" Parent="2" UserID="28" DisplayStyle="CPK" XYZ="0.587212662597461,0.391140010921053,0.613825973110938" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="31" Mapping="45" Parent="2" UserID="29" DisplayStyle="CPK" XYZ="0.723410299399394,0.477788612454292,0.425998045764505" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="32" Mapping="45" Parent="2" UserID="30" DisplayStyle="CPK" XYZ="0.511331532791971,0.495315634538041,0.381484051572578" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="33" Mapping="45" Parent="2" UserID="31" DisplayStyle="CPK" XYZ="0.282895492850917,0.424764860011303,0.487996875505173" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="34" Mapping="45" Parent="2" UserID="32" DisplayStyle="CPK" XYZ="0.489057861170378,0.602810603888519,0.712431916404354" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="35" Mapping="45" Parent="2" UserID="33" DisplayStyle="CPK" XYZ="0.390319465885065,0.511723055132212,0.49331024676601" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="36" Mapping="45" Parent="2" UserID="34" DisplayStyle="CPK" XYZ="0.408969260607263,0.504572731821655,0.288522227894619" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="37" Mapping="45" Parent="2" UserID="35" DisplayStyle="CPK" XYZ="0.604808684000698,0.59436549569123,0.612930548929883" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="38" Mapping="45" Parent="2" UserID="36" DisplayStyle="CPK" XYZ="0.471238676677951,0.412406963304845,0.714399497913835" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="39" Mapping="45" Parent="2" UserID="37" DisplayStyle="CPK" XYZ="0.724024191311615,0.574576518773434,0.505919057361693" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="40" Mapping="45" Parent="2" UserID="38" DisplayStyle="CPK" XYZ="0.706288256005392,0.480128861905957,0.608860210026311" CPKScale="80" Components="Mo"/>
+						<Atom3d ID="41" Mapping="45" Parent="2" UserID="39" DisplayStyle="CPK" XYZ="0.626897814231389,0.481765836480154,0.304331295391679" CPKScale="80" Components="Mo"/>
+						<SpaceGroup ID="42" Parent="2" Children="46" Name="P1" XYZ="0,0,0" AVector="17.78981,0,0" BVector="0,18.02867,0" CVector="0,0,17.82862" OrientationBase="C along Z, B in YZ plane" Centering="3D Primitive-Centered" Lattice="3D Triclinic" GroupName="P1" Operators="1,0,0,0,0,1,0,0,0,0,1,0" DisplayRange="-0.05,1.05,-0.05,1.05,0.0,1.0" LineThickness="2" CylinderRadius="0.2" LabelAxes="1" ActiveSystem="2" ITNumber="1" LongName="P 1" Qualifier="Origin-1" SchoenfliesName="C1-1" System="Triclinic" Class="1"/>
+						<ReciprocalLattice3D ID="46" Parent="42"/>
+					</IdentityMapping>
+					<MappingRepairs NumRepairs="0"/>
+				</MappingFamily>
+				<InfiniteMapping ID="3" Element="1,0,0,0,0,1,0,0,0,0,1,0" MappedObjects="2"/>
+			</MappingSet>
+			<OriginalObjects ID="47">
+				<SetCollection Objects="4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41"/>
+			</OriginalObjects>
+		</SymmetrySystem>
+	</AtomisticTreeRoot>
+</XSD>
