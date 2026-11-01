@@ -1,0 +1,38 @@
+Electronic structure
+  PREC    = NORMAL
+  LREAL   = Auto
+  ENCUT   = 400
+  ISYM    = 0
+  ISPIN   = 2
+Electronic minimization
+  IALGO   = 48
+  EDIFF   = 1e-6
+  NELM    = 1000
+  MAXMIX  = 80
+  ISMEAR  = 2
+  SIGMA   = 0.2
+Density functional
+  GGA     = PE
+  IVDW    = 11
+Ionic relaxation
+   ISIF    = 0
+   EDIFFG  = -0.5
+   NSW     = 1000
+   IBRION  = 2
+   POTIM   = 0.1
+Job Params
+   LWAVE  = .FALSE.
+   LCHARG = .FALSE.
+NEB
+   ICHAIN  = 0
+   IMAGES  = 8
+   ISPRING = -5
+   LCLIMB  = .TRUE.
+   LDNEB   = .TRUE.
+Parallelization
+  NSIM    = 4
+  NPAR    = 2
+  LPLANE  = .TRUE.
+  LSCALU  = .FALSE
+Other parameters
+
